@@ -1,0 +1,10 @@
+{
+  "name": "quickcart-lambdas",
+  "version": "1.0.0",
+  "description": "Lambda functions for QuickCart serverless order processing system",
+  "dependencies": {
+    "@aws-sdk/client-sqs": "^3.600.0",
+    "@aws-sdk/client-dynamodb": "^3.600.0",
+    "@aws-sdk/lib-dynamodb": "^3.600.0"
+  }
+}
