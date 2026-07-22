@@ -5,7 +5,7 @@
 
 // TODO: replace with your real API Gateway invoke URL, e.g.
 // "https://abc123xyz.execute-api.us-east-1.amazonaws.com/prod"
-const API_URL = "https://YOUR-API-ID.execute-api.YOUR-REGION.amazonaws.com/prod";
+const API_URL = "https://oafo28wjl1.execute-api.ap-south-1.amazonaws.com/prod";
 
 const PRODUCTS = [
   { id: "p1", name: "QuickCart T-Shirt", price: 19.99 },
